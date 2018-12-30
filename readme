@@ -1,0 +1,11 @@
+ableism-eradicator is a clumsy little autohotkey script i made to help me eradicate the more pervasive ableist words from my vocabulary 
+
+if the script is running and you type the words "stupid," "dumb," "crazy," "insane," or "idiot," the script will provide a randomized list of other options and replace the slur with the alternative you select 
+
+if you want the alternatives without typing the slur, use the shortcut "!c" for crazy/insane, "!s" for stupid/dumb, or "!i" for idiot 
+
+this script was adapted froma script by Jack Dunning (https://jacksautohotkeyblog.wordpress.com/2015/10/31/replacing-overused-words-with-pop-up-synonym-menus-part-7-beginning-hotstrings/)
+with alternative words taken in part from anagnori (https://anagnori.tumblr.com/post/71020734063/alternatives-to-saying-stupid)
+
+you can find instructions for running .ahk scripts with autohotkey here: https://www.autohotkey.com/
+or you can run the compliled .exe on its own. 
